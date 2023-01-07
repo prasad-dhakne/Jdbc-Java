@@ -1,4 +1,4 @@
-package com.jdbc.question1.jdbcutils;
+package com.jdbc.jdbcutils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

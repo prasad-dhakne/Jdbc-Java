@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-import com.jdbc.question1.jdbcutils.JdbcConnection;
+import com.jdbc.jdbcutils.JdbcConnection;
 
 public class JdbcUpdate {
 	public static void updateRecord() {	

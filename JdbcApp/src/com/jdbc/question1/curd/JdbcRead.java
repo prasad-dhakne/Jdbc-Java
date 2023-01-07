@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.jdbc.question1.jdbcutils.JdbcConnection;
+import com.jdbc.jdbcutils.JdbcConnection;
 
 public class JdbcRead {
 	public static void readRecords(){
